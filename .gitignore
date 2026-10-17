@@ -1,0 +1,5 @@
+sniffer_log.txt
+*.pcap
+*.pcapng
+
+
